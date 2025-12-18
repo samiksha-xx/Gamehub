@@ -52,12 +52,18 @@ Game Hub is a Python-based desktop application that provides a centralized platf
   ## 📸 Sample Input / Output Screenshots
 
 Game Menu (Input: Game Selection)
+
+
 ![Game Menu](menu.png)
 
 Rock Paper Scissors – Gameplay Output
+
+
 ![Rock Paper Scissors Gameplay](rps_play.png)
 
 Rock Paper Scissors – Power-Up Activated
+
+
 ![RPS Powerup](rps_powerup.png)
 
 Bowling Game – Ball Roll & Score Output
